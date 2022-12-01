@@ -5,7 +5,7 @@ lon = 23.319941
 
 
 part = "current,minutely,daily,alerts"
-api_key = "cf5c6dac7157ff58ab9f8ef1a0f37aa8"
+api_key = "your_api_key"
 params = {"lat": lat,
           "lon": lon,
           "exclude": part,
